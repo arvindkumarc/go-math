@@ -1,0 +1,10 @@
+{
+	"ImportPath": "github.com/arvindkumarc/go-math",
+	"GoVersion": "go1.2.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/arvindkumarc/newmath",
+			"Rev": "edbe4eb566248ee21d6cc8e89108154c46477caa"
+		}
+	]
+}
